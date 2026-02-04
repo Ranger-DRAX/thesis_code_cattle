@@ -1,0 +1,28 @@
+# Training hyperparameters
+K: 4
+P: 16
+aug_strength: mild
+backbone: resnet50
+batch_size: 16
+best_epoch: 13
+dropout: 0.2
+embed_dim: 512
+epochs: 30
+max_epochs: 30
+lr_backbone: 0.00015
+lr_head: 0.00045
+min_lr: 0.000001
+method: supcon+arcface
+patience: 8
+val_top1: 78.0
+weight_decay: 0.0003
+seed: 42
+
+# ArcFace loss parameters
+arcface_m: 0.5
+arcface_s: 30.0
+
+# Data loading
+num_workers: 0
+pin_memory: true
+gt_padding: 0.0

@@ -1,0 +1,14 @@
+======================================================================
+MODEL COMPARISON RESULTS (Including Ensembles)
+======================================================================
+
+                                      Model  Train MAE  Train RMSE  Train R²  Val MAE  Val RMSE   Val R² Epochs
+              Ensemble 1: DenseNet121 v1+v2      29.92       38.88  0.913071    35.10     46.57 0.761212      -
+Ensemble 3: DenseNet121 v2 + InceptionV3 v2      26.05       34.38  0.932038    35.72     44.80 0.779098      -
+Ensemble 2: DenseNet121 v2 + MobileNetV2 v2      27.02       35.53  0.927426    36.47     47.38 0.752835      -
+                DenseNet121 v2 (Fine-tuned)      24.46       37.16  0.920614    36.99     44.96 0.777509     50
+                InceptionV3 v2 (Fine-tuned)      33.86       43.44  0.891509    40.06     50.01 0.724672     30
+                  DenseNet121 v1 (Original)      43.20       53.36  0.836296    40.99     54.85 0.668762     37
+                MobileNetV2 v2 (Fine-tuned)      38.94       48.96  0.862180    43.16     58.23 0.626719     30
+                  MobileNetV2 v1 (Original)      32.39       40.51  0.905624    43.82     53.47 0.685252     29
+                  InceptionV3 v1 (Original)      28.72       35.40  0.927957    50.66     66.49 0.513275     35

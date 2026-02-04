@@ -1,0 +1,216 @@
+ID,Age (Year),Weight(KG),Sex,Breed
+1,0.67,173,m,Australian Freezan
+2,3,259,m,Australian Freezan
+3,2,205,m,Australian Freezan
+4,1,215,f,Australian Freezan
+5,2.5,141,m,Australian Freezan
+6,2,157,m,Australian Freezan
+7,2.5,228,m,Australian Freezan
+8,1,232,m,Australian Freezan
+9,3,166,m,Australian Freezan
+10,3,198,m,Australian Freezan
+11,4,232,f,Brama
+12,6,207,f,Australian Freezan
+13,6,173,f,Australian Freezan
+14,3,125,f,Australian Freezan
+15,6,309,f,Australian Freezan
+16,6,283,f,Australian Freezan
+17,6,276,f,Australian Freezan
+18,5.5,271,f,Australian Freezan
+19,5,214,f,Australian Freezan
+20,3.5,228,f,Australian Freezan
+21,5.5,318,f,Australian Freezan
+22,5.5,293,f,Australian Freezan
+23,4.5,287,f,Australian Freezan
+24,4,293,f,Australian Freezan
+25,2.5,313,m,Australian Freezan
+26,6,336,f,Australian Freezan
+27,1.2,158,f,Shaiwall
+28,1.2,175,f,Shaiwall
+29,0.25,59,f,Australian Freezan
+30,2.5,445,f,Australian Freezan
+31,6,363,f,Australian Freezan
+32,2.5,332,f,Australian Freezan
+33,3,215,f,Australian Freezan
+34,3,264,f,Australian Freezan
+35,3,339,f,Shaiwall
+36,4,393,m,Shaiwall
+37,2,335,m,Shaiwall
+38,2,300,m,Shaiwall
+39,1.25,301,m,Shaiwall
+40,1,298,m,Shaiwall
+41,0.83,173,f,Shaiwall
+42,0.83,222,f,Shaiwall
+43,2.5,407,f,Shaiwall
+44,6,159,f,Cross Injection Jersy
+45,1.8,111,f,Australian Freezan
+46,2.5,320,f,Australian Freezan
+47,4,391,f,Australian Freezan
+48,0.5,80,m,Shaiwall
+49,2,389,m,Brama Cross
+50,2,418,m,Brama Cross
+51,2,324,m,Shaiwall
+52,2,534,m,Pakra
+53,2,309,m,Shaiwall
+54,2,299,m,Shaiwall
+55,2,562,m,Shaiwall
+56,2,523,m,Shaiwall
+57,2,583,m,Shaiwall
+58,2,531,m,Shaiwall
+59,2,329,m,Shaiwall
+60,2,408,m,Shaiwall
+61,3,400,m,Australian Freezan
+62,2.5,588,m,Australian Freezan
+63,4,435,m,Australian Freezan
+64,4.5,613,m,Shaiwall
+65,3.5,532,m,Shaiwall
+66,3.5,495,m,Australian Freezan
+67,5,408,m,Australian Freezan
+68,5,484,f,Australian Freezan
+69,6.5,654,f,Australian Freezan
+70,6,410,f,Australian Freezan
+71,0.083,78,f,Australian Freezan
+72,7,511,f,Australian Freezan
+73,3,333,f,Australian Freezan
+74,3.5,317,f,Australian Freezan
+75,2.5,236,f,Australian Freezan
+76,2,225,f,Australian Freezan
+77,2.5,220,f,Australian Freezan
+78,2.5,269,m,Australian Freezan
+79,3,158,f,Nepali Bhutti
+80,3,306,f,Australian Freezan
+81,3.5,395,f,Australian Freezan
+82,4,314,f,Australian Freezan
+83,3.75,300,f,Australian Freezan
+84,5,443,f,Australian Freezan
+85,2.75,396,f,Australian Freezan
+86,3.5,314,f,Australian Freezan
+87,4.25,340,f,Australian Freezan
+88,5,328,f,Australian Freezan
+89,4.75,360,f,Australian Freezan
+90,4.5,344,f,Australian Freezan
+91,1.5,195,f,Australian Freezan
+92,1.5,223,f,Australian Freezan
+93,4.75,254,f,Australian Freezan
+94,5,268,f,Australian Freezan
+95,5,334,f,Australian Freezan
+96,5,338,f,Australian Freezan
+97,5,298,f,Australian Freezan
+98,5,305,f,Australian Freezan
+99,5,286,f,Australian Freezan
+100,6,286,f,Australian Freezan
+101,1,239,f,Australian Freezan
+102,1,163,f,Australian Freezan
+103,1,167,f,Australian Freezan
+104,1,157,f,Australian Freezan
+105,1,165,f,Australian Freezan
+106,1,124,f,Australian Freezan
+107,1,161,f,Australian Freezan
+108,2,257,f,Australian Freezan
+109,1.8,197,m,Shaiwall
+110,1.5,223,m,Shaiwall
+111,3,236,m,Shaiwall
+112,2,225,m,Shaiwall
+113,2.5,355,m,Shaiwall
+114,0.2,76,m,Shaiwall
+115,0.33,76,m,Shaiwall
+116,1,111,m,Australian Freezan
+117,1,85,m,Australian Freezan
+118,3,165,f,Shonkor(D-Cross)
+119,3,168,f,Shaiwall
+120,5,170,f,Shaiwall
+121,4,374,f,Australian Freezan
+122,5,466,f,Australian Freezan
+123,9,181,f,Australian Freezan
+124,2.5,419,f,Australian Freezan
+125,2.5,357,f,Australian Freezan
+126,2.5,405,f,Australian Freezan
+127,2.5,281,f,Australian Freezan(Red Cross)
+128,0.75,97,f,Australian Freezan
+129,0.055,114,f,Australian Freezan
+130,5,499,f,Australian Freezan
+131,5,520,f,Australian Freezan
+132,5,538,f,Australian Freezan
+133,3,512,f,Australian Freezan
+134,2,531,f,Australian Freezan
+135,5,638,f,Australian Freezan
+136,2.5,432,f,Australian Freezan
+137,1.5,201,f,Australian Freezan
+138,1.5,178,f,Australian Freezan
+139,1.5,227,m,Australian Freezan
+140,2,308,m,Deshi
+141,2.5,418,m,Australian Freezan
+142,1.5,270,m,Australian Freezan
+143,1.5,259,m,Australian Freezan
+144,0.25,64,f,Australian Freezan
+145,1.5,564,f,Australian Freezan
+146,2.5,408,f,Holastan Freezan
+147,1.5,479,f,Australian Freezan
+148,2,280,f,Deshi
+149,1,144,f,Deshi
+150,3,263,f,Deshi
+151,2.5,277,f,Holastan Freezan
+152,1.5,411,f,Holastan Freezan
+153,3.5,378,f,Holastan Freezan
+154,4,339,f,Holastan Freezan
+155,3.5,345,f,Holastan Freezan
+156,2,139,f,Shaiwall
+157,8,190,f,Shaiwall
+158,0.5,87,m,Shaiwall
+159,1.5,241,f,Shaiwall
+160,10,267,f,Shaiwall
+161,0.7,343,f,Holastan Freezan
+162,0.7,363,f,Holastan Freezan
+163,0.5,310,m,Holastan Freezan
+164,0.5,312,m,Holastan Freezan
+165,4,250,f,Holastan Freezan
+166,4,276,f,Holastan Freezan
+167,8,342,f,Holastan Freezan
+168,8,296,f,Holastan Freezan
+169,8,251,f,Australian Freezan
+170,8,225,f,Australian Freezan
+171,8,301,f,Australian Freezan
+172,8,168,f,Australian Freezan
+173,8,108,f,Shindhi
+174,8,123,f,Deshi
+175,4,191,f,Deshi
+176,4,219,f,Deshi
+177,4,219,f,Deshi
+178,2.5,150,f,Deshi
+179,4,164,f,Deshi
+180,1.5,101,f,Deshi
+181,2.5,180,f,Deshi
+182,6,225,f,Deshi
+183,5,206,f,Deshi
+184,4,207,f,Deshi
+185,5,208,f,Deshi
+186,5,207,f,Deshi
+187,1,122,f,Deshi
+188,1.1,101,f,Deshi
+189,1.1,125,m,Deshi
+190,1,137,f,Deshi
+191,1,120,f,Deshi
+192,1,134,f,Deshi
+193,0.75,95,f,Deshi
+194,1.5,150,f,Deshi
+195,1,130,f,Deshi
+196,4,219,f,Deshi
+197,4,218,f,Deshi
+198,2,181,f,Deshi
+199,4,186,f,Deshi
+200,1,143,f,Deshi
+201,7,160,f,Sindhi
+202,2,215,f,Deshi
+203,1.5,180,f,Deshi
+204,4,214,f,Deshi
+205,2,205,f,Deshi
+206,1,192,f,Deshi
+207,1,175,f,Deshi
+208,4,217,f,Deshi
+209,2,211,f,Deshi
+210,1,193,m,Deshi
+211,2,211,f,Deshi
+212,1.5,218,m,Deshi
+213,3,234,m,Cross
+214,3,233,f,Deshi
+215,3,227,f,Deshi
